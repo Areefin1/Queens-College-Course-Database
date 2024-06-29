@@ -1,1 +1,2 @@
-[Main Project Presentation Video](https://drive.google.com/file/d/17fB88NcLUVh42KcpJVARy_HElThOI0Wv/view?usp=sharing)
+- [Main Project Presentation Video](https://drive.google.com/file/d/17fB88NcLUVh42KcpJVARy_HElThOI0Wv/view?usp=sharing)
+- [JDBC Live Query Execution with Java Swing Application Presentation Video](https://drive.google.com/file/d/1bg0kWuVYL7iKooYyTPHXiwzM9Be-UWSi/view?usp=sharing)
